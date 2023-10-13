@@ -30,9 +30,9 @@ is_tall= False
 if is_male and is_tall:
     print("You are not UGLY")
 elif is_male and not(is_tall):
-    print("Usmi You'r  Still pretty ")
+    print("Mahesh You'r  Still Dalla ")
 else:
-    print("Usmi is Pretty")
+    print("Mahesh is Dalle")
 #reverse func
 num = 1234567
 t=str(num)[::-1]
