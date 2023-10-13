@@ -6,8 +6,8 @@ Created on Sun Aug  7 20:25:01 2022
 """
 from Student import Student
 
-student1 = Student("Usmi", "Computer science", 9.5, True)
-student2 = Student("Ayusmita Biswas", "ECE", 9.73, False)
+student1 = Student("Mahesh", "Computer science", 9.5, True)
+student2 = Student("MAhesh Dalle", "ECE", 9.73, False)
 
 print(student1.name)
 print(student2.name)
