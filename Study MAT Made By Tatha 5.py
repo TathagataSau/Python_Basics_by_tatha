@@ -7,9 +7,9 @@ Created on Fri Aug  5 02:19:54 2022
 
 ##### For Loop
 
-for letter in "Ayusmita Biswas":
+for letter in "Mahesh Dalle":
     print(letter)
-friends = ['Ayusmita','Usmi','Tatha']
+friends = ['Mahesh','Dalle','Tatha']
 for friends in friends:
     print(friends)
     #power operator
@@ -33,7 +33,7 @@ for row in number_grid:
         print(col)
 
 """
-Usmi Lang
+Mahesh Lang
 Vowels -> U
 --------
 dog -> dug
