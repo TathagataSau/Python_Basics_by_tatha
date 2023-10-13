@@ -6,8 +6,8 @@ Created on Sun Aug  7 20:46:42 2022
 """
 from question import question
 question_prompts =[
-    "What are you Usmi?\n(a) Sweet \n(b) Cute \n(c) Sweet and cute Both?  \n(d)only one of them\n\nans:",
-    "What am I Usmi?\n(a) Sweet \n(b) Cute \n(c) Sweet and cute Both?  \n(d)none of them\n\nans:",
+    "What are you ?\n(a) Sweet \n(b) Cute \n(c) Sweet and cute Both?  \n(d)only one of them\n\nans:",
+    "What am I ?\n(a) Sweet \n(b) Cute \n(c) Sweet and cute Both?  \n(d)none of them\n\nans:",
     "what is your most Favourite thing?\n (a) Jhumkas \n(b)Coding \n(c)Ice Cream \n(d)Tathagata\n\nans:"
     
 ]
