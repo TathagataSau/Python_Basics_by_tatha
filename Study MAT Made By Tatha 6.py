@@ -24,5 +24,5 @@ hello.write("\n Usmi is Very Bad at insulting")# fully override the file into ne
 hello.close()
 '''
 hello_html = open("Index.html","w")
-hello_html.write("<p> This is Usmi's Webpage</p>")
+hello_html.write("<p> This is a Webpage</p>")
 hello_html.close()
