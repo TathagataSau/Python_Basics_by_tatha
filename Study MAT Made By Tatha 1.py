@@ -6,14 +6,14 @@ Created on Sat Jul 30 19:49:56 2022
 """
 #from math import*
 import math
-name = "Usmi"
+name = "Rahul"
 age = "20"
 print("Hi "+ name+" how are you?\""+"I know you are "" old"+" and I love ♥ this thing about you")
 print(age.upper().isupper())
-print(name.replace("Usmi","Ayusmita"))
+print(name.replace("Mahesh","Dalle"))
 print(format(-2.0987 - 6.898,".3f"))
 num=-7
-print(str(num)+" mine and Usmi's Number")
+print(str(num)+" mine and Mahesh's Number")
 print(abs(num)) #absolute number
 print(pow(num,abs(num)))
 print(max(1,2,3,4,46,6,7,66,8))
