@@ -12,7 +12,7 @@ monthConversions ={
     "apr":"April",
     }
 print(monthConversions['apr'])
-print(monthConversions.get("Heart","Usmi")) #default value
+print(monthConversions.get("Heart","Mahesh")) #default value
 print(monthConversions[3])
 #### While LOOP
 i=1
