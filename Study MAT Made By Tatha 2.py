@@ -6,12 +6,12 @@ Created on Sat Jul 30 19:49:56 2022
 """
 
 # Lists
-friends=["Usmi", "USMI","USMI","USMI","usmi",'Ayusmita','tatha'] #anything like strings numbers booleans
+friends=["Mahesh", "Dalle","MAHESH","DALLE","mahesh",'MaheshDalle','dalle'] #anything like strings numbers booleans
 print(friends[0])
 print(friends[-1])
 print(friends[1:])
 print(friends[1:3])# not includes the last number in range
-friends[1]="USmiiiiii"
+friends[1]="Dalleee"
 print(friends)
 #list fuction
 lucky_numbers=[27,7,19,45,55]
@@ -32,9 +32,9 @@ print(friends)
 #friends.clear()
 print(friends)
 print(friends.index("Pratyasha"))
-print(friends.count("USMI"))
+print(friends.count("DALLE"))
 
-friends2=["Usmi", "Tathagata","Sudipta","Rishik","Siddhartha",'Ayusmita','Pratyasha']
+friends2=["Mahesh", "Tathagata","Sudipta","Rishik","Siddhartha",'MaheshDalle','Pratyasha']
 friends2.sort()
 print(friends2)
 friends2.reverse()
